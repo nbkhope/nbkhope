@@ -28,6 +28,8 @@ I maintain [Tech World Software School](https://www.nbktechworld.com) and [Mundo
 
 Enroll in one of [my Udemy courses](https://www.udemy.com/user/renan-martins-5/).
 
+<div style="height: 120px"></div>
+
 <div style="clear: both;">
 
 ## Support Me
