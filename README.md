@@ -18,6 +18,13 @@ I love building software, exploring new ideas, and seeing them come to life. I h
 
 ### Do you want to **hire me** as a Software Engineer? Please send me a message on [LinkedIn](https://www.linkedin.com/in/renanengineer/).
 
+## Learn from Me
+
+Are you looking for a mentor and instructor to guide you through software development?
+I can help you out. Let's schedule an online lesson via Zoom.
+
+Contact me via any of [my links](https://linktr.ee/nbktechworld) (e.g. Discord server) or **[book via Calendly](https://calendly.com/nenkan/60min)**.
+
 ## Projects
 
 <a href="https://www.nbktechworld.com" target="_blank" rel="noreferrer">
