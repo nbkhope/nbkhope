@@ -23,7 +23,7 @@ I love building software, exploring new ideas, and seeing them come to life. I h
 Are you looking for a mentor and instructor to guide you through software development?
 I can help you out. Let's schedule an online lesson via Zoom.
 
-Contact me via any of [my links](https://linktr.ee/nbktechworld) (e.g. Discord server) or **[book via Calendly](https://calendly.com/nenkan/60min)**.
+Contact me via any of [my links](https://linktr.ee/nbktechworld) (e.g. [Discord](https://discord.com/invite/MJwGcwcdae) server) or **[book via Calendly](https://calendly.com/nenkan/60min)**.
 
 ## Projects
 
