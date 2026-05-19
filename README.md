@@ -8,6 +8,8 @@ Hi 👋 Nice to meet you!
 
 I love building software, exploring new ideas, and seeing them come to life. I have a passion for sharing my knowledge and helping others learn software development as well.
 
+I use cutting-edge artificial intelligence (AI) technology to power through my workflows and efficiently get things done. I am always experimenting with various approaches and sharing my experience along the way.
+
 ## Hire Me
 
 <div align="center">
@@ -16,7 +18,7 @@ I love building software, exploring new ideas, and seeing them come to life. I h
   </a>
 </div>
 
-### Do you want to **hire me** as a Software Engineer? Please send me a message on [LinkedIn](https://www.linkedin.com/in/renanengineer/).
+### Do you want to **hire me** as an AI-First Software Engineer? Please send me a message on [LinkedIn](https://www.linkedin.com/in/renanengineer/).
 
 ## Learn from Me
 
